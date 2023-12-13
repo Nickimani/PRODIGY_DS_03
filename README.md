@@ -5,6 +5,7 @@ Build a decision tree classifier to predict whether a customer will purchase a p
 
 ## Data Understanding
 The descriptions of the features in the data are as follows:
+
 ![Metadata](https://github.com/Nickimani/PRODIGY_DS_03/assets/104377216/d3cdd657-007a-49c2-84c8-baa132fe4ab5)
 
 The data was fairly clean with a low number of outliers and duplicates.
